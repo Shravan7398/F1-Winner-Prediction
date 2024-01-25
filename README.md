@@ -21,3 +21,5 @@ The project follows a systematic workflow that includes the following steps:
 6. **Model Selection:** Based on the evaluation results, the XG Boost algorithm is selected as the best-performing model. This decision is crucial for further improvements and optimizations.
 
 7. **Model Enhancement:** The XG Boost model is fine-tuned and optimized to achieve a final accuracy of 100%. This involves adjusting hyperparameters, feature engineering, robust scaler and other techniques to enhance the model's predictive capabilities.
+
+<img width="499" alt="Algorithm comparison" src="https://github.com/Shravan7398/F1-Winner-Prediction/assets/66254166/c391912c-aeba-48cc-854c-43d7a036313e">
