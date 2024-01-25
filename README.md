@@ -2,7 +2,7 @@
 
 ## Overview
 
-Project F1 Winner Prediction is a data science project focused on predicting the winner of Formula 1 races using machine learning techniques. The project involves various stages such as data cleaning, data integration from multiple files, filtering, and implementing five different machine learning algorithms. The ultimate goal is to identify the best-performing algorithm and further enhance its performance to achieve a final accuracy of 100%.
+Project F1 Winner Prediction is a data science project focused on predicting the winner of Formula 1 races using machine learning techniques. The project involves various stages such as data cleaning, data integration from multiple files, filtering, and implementing five different machine learning algorithms. The ultimate goal is to identify the best-performing algorithm and further enhance its performance.
 
 ## Project Workflow
 
